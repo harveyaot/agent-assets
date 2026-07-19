@@ -1,0 +1,10 @@
+---
+description: Prefer uv for Python project management and command execution
+alwaysApply: true
+---
+
+# Python: Use uv
+
+- Prefer `uv` for Python project management (`uv sync`, `uv add`, `uv remove`).
+- Run Python and tools via `uv run` (e.g. `uv run python`, `uv run pytest`).
+- Do not default to bare `pip` / `venv` when `uv` is available.

@@ -1,0 +1,11 @@
+---
+description: Do not generate usage examples or docs markdown unless asked
+alwaysApply: true
+---
+
+# No Unsolicited Docs
+
+Unless the user explicitly asks:
+
+- Do not proactively generate usage examples after code changes.
+- Do not proactively create markdown files that document how to use the code.
