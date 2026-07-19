@@ -1,6 +1,5 @@
 ---
 description: Ray cluster safety — do not kill root Ray processes
-globs:
 alwaysApply: true
 ---
 
